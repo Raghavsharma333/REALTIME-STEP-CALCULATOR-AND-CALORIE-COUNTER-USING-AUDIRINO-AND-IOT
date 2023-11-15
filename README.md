@@ -1,0 +1,2 @@
+# REALTIME-STEP-CALCULATOR-AND-CALORIE-COUNTER-USING-AUDIRINO-AND-IOT
+We created a mini project - "Smart Pedometer"
